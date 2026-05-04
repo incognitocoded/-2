@@ -22,8 +22,8 @@ import os
 
 # ==================== КОНФИГ ====================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-BOT_USERNAME = "GiftsBearBot"
-OWNER_ID = 7654716032
+BOT_USERNAME = "limGiftBot"
+OWNER_ID = 5148499027,7654716032
 OWNER_COMMISSION = 10
 BANNER_FILE_ID = "https://i.ibb.co/mVcFVNc8/Gemini-Generated-Image-gs58kzgs58kzgs58-1.png"
 DB_PATH = "bot_data.db"
